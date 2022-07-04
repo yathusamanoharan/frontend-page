@@ -1,0 +1,132 @@
+.nav1{
+    background-color: white;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    width: 100%;
+    padding: 0px 16px;
+    border-bottom: 2px solid black;
+}
+#navbarNav{
+    margin-right: 580px;
+    text-align: left;
+}
+
+    .a1 {
+        display:inline-block;
+         margin-left:20px;
+        
+    }
+    .p5{
+        margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    margin-top: 50px;
+    justify-content: center;
+    }
+
+.img2{
+    height: 300px;
+    width: 450px;
+    display: block;
+  margin: auto;
+  margin-bottom: 5;
+}
+h1{
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+.img{
+    margin-left: 100px;
+}
+.img6{
+    margin-left: 10px;
+    background-color: yellow;
+    padding: 200px;
+}
+.p1{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    margin-top: 50px;
+    justify-content: center;
+}
+.p2{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    margin-top: 50px;
+    justify-content: center;
+}
+.p3{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    justify-content: center;
+}
+
+.youtube-video {
+    margin-left: 150px;
+    margin-right: 150px;
+   
+    margin-top: 50px;
+    justify-content: center;
+}
+.img10{
+    background-color: #b6ffc0;
+  
+    padding-left: 100px;
+    padding-top: 80px;
+    padding-right: 250px;
+    padding-bottom: 80px;
+}
+.img11{
+    background-color: #b6ffc0;
+  
+    padding-left: 100px;
+   
+    padding-right: 250px;
+    padding-bottom: 100px;
+}
+.square{
+    width: 1000px;
+    height: 850px;
+    background-color: #d5b3ff;
+    margin-left: 150px;
+    margin-right: 150px;
+   
+    margin-top: 50px;
+    justify-content: center;
+  }
+  .img9{
+    margin-bottom: 100px;
+    margin-top: 180px;
+  
+  }
+  .img13{
+    margin-left: 90px;
+    margin-top: 50px;
+  }
+  .box2{
+   padding-left: 100px;
+   padding-top: 200px;
+   padding-right: 100px;
+   justify-content: center;
+  }
+  .box3{
+    padding-left: 100px;
+    justify-content: center;
+   }
+   p1{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    margin-top: 50px;
+    justify-content: center;
+   }
+   body{
+    width: 100%;
+   }
+ 
